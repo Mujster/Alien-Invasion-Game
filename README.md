@@ -1,4 +1,5 @@
 # Alien-Invasion-Game
+## Using Artificial Intelligence principles and algorithms
 
 ## Graph Representation
 
